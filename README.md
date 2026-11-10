@@ -9,7 +9,7 @@
 | Họ tên | MSSV | GitHub | Phần việc |
 |---|---|---|---|
 | Nguyễn Anh Khoa | 2411613 | [Aquaemnha](https://github.com/Aquaemnha) | Chưa phân công |
-| Nguyễn Minh Khôi | 2411708 | [nminhkhoi050606-pixel](https://github.com/nminhkhoi050606-pixel) | Chưa phân công |
+| Nguyễn Minh Khôi | 2411708 | [minKhoiKhoi](https://github.com/minKhoiKhoi) | Chưa phân công |
 
 ## Quy ước làm việc
 - main: phiên bản ổn định.
