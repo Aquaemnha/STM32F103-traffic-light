@@ -4,7 +4,6 @@
 - Môn học: Vi xử lý - Vi điều khiển (CO3009).
 - Phần cứng: XNUCLEO-F103RB, chip STM32F103RB.
 - Công cụ: STM32CubeIDE.
-- Link Video Demo: https://drive.google.com/file/d/1BM3X1GA13JdTik2zo85TBG1KHpX0zt-A/view
 
 ## Thành viên và phân công
 | Họ tên | MSSV | GitHub | Phần việc |
